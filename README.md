@@ -1,1 +1,1 @@
-# skylens-app
+# skylens-app Holografikus időjárás app Flutter-ben
